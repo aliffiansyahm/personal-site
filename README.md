@@ -1,2 +1,2 @@
 # personal-site
- my personal sitd
+ my personal site
